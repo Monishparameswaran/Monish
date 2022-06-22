@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <form class="" action="index.html" method="post">
+    <label for="">enter name</label><br>
+    <input type="text" name="" value=""><br>
+    <label for="">password</label>
+    <input type="password" name="" value=""><br>
+    <label for="">food you like</label>
+    <input type="checkbox" name="" value=""><br>
+    <label for="">email</label>
+    <input type="email" name="" value=""><br>
+    <label for="">gender</label>
+    <input type="button" name="" value="">
+  </form>
+</body>
+</html>
